@@ -20,6 +20,7 @@ strings          | n |	return
 [abce, abcd, cdx]| 2 |[abcd, abce, cdx]
 
 ##### 입출력 예 설명
+
 ###### 입출력 예 1
 - sun, bed, car의 1번째 인덱스 값은 각각 u, e, a 입니다. 이를 기준으로 strings를 정렬하면 [car, bed, sun] 입니다.
 
