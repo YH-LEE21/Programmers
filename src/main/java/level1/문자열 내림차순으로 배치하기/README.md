@@ -13,6 +13,6 @@
 
 ###### 입출력 예
 
-    s    |return   |
-|:++     |:++       
-"Zbcdefg"|"gfedcbZ"|
+|    s    |return   |
+|:++      |:++       
+|"Zbcdefg"|"gfedcbZ"|
