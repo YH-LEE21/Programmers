@@ -19,7 +19,7 @@ s      |answer  |
 pPoooyY|	true  |
 Pyy|	false|
 
-#####입출력 예 설명
+##### 입출력 예 설명
 
 ###### 입출력 예 #1
 ###### 'p'의 개수 2개, 'y'의 개수 2개로 같으므로 true를 return 합니다.
