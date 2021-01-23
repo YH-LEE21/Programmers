@@ -1,6 +1,6 @@
 # Programmers
 with java + SQL
-* >JAVA
+1. >JAVA
   >   >[Level 1](https://github.com/YH-LEE21/Programmers/tree/main/src/main/java/level1)
-* >SQL
+2. >SQL
   >   >[select](https://github.com/YH-LEE21/Programmers/tree/main/src/main/SQL/select)
