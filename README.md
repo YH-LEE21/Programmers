@@ -1,5 +1,5 @@
 # Programmers
-<img src ="https://media.vlpt.us/post-images/wan088/fd59d910-bdf2-11e9-819b-6f75e16b2f5e/.jpg" width="1000" hight="300">
+<img src ="https://media.vlpt.us/post-images/wan088/fd59d910-bdf2-11e9-819b-6f75e16b2f5e/.jpg" width="1000">
 
 ### with java + SQL
 
