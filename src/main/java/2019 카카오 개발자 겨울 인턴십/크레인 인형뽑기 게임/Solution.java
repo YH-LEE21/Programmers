@@ -1,4 +1,4 @@
-import java.util.Stack;
+import java.util.*;
 
 class Soultion{
     public int solution(int[] board,int[] moves){
