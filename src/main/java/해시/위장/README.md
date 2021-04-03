@@ -37,15 +37,15 @@ clothes|	return                                                                 
 ###### 예제 #1
 ###### headgear에 해당하는 의상이 yellow_hat, green_turban이고 eyewear에 해당하는 의상이 blue_sunglasses이므로 아래와 같이 5개의 조합이 가능합니다.
 
-###### 1. yellow_hat
-###### 2. blue_sunglasses
-###### 3. green_turban'
-###### 4. yellow_hat + blue_sunglasses
-###### 5. green_turban + blue_sunglasses
+`1. yellow_hat`
+`2. blue_sunglasses`
+`3. green_turban`
+`4. yellow_hat + blue_sunglasses`
+`5. green_turban + blue_sunglasses`
 
 ###### 예제 #2
 ###### face에 해당하는 의상이 crow_mask, blue_sunglasses, smoky_makeup이므로 아래와 같이 3개의 조합이 가능합니다.
 
-###### 1. crow_mask
-###### 2. blue_sunglasses
-###### 3. smoky_makeup
+`1. crow_mask`
+`2. blue_sunglasses`
+`3. smoky_makeup`
