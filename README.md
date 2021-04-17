@@ -17,3 +17,4 @@
      + [완전탐색](https://github.com/YH-LEE21/Programmers/tree/main/src/main/java/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 2. SQL
      + [select](https://github.com/YH-LEE21/Programmers/tree/main/src/main/SQL/select)
+     + [SUM,MAX,MIN](https://github.com/YH-LEE21/Programmers/tree/main/src/main/SQL/SUM%2CMAX%2CMIN)
