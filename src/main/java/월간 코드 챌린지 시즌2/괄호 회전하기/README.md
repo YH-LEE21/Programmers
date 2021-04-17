@@ -30,20 +30,14 @@ s       |	result|
 
 ###### * 다음 표는 `"[](){}"` 를 회전시킨 모습을 나타낸 것입니다.
 
+<img src = "https://github.com/YH-LEE21/Programmers/blob/main/src/main/java/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/p1.PNG">
 
 ###### 올바른 괄호 문자열이 되는 x가 3개이므로, 3을 return 해야 합니다.
 
 ###### 입출력 예 #2
 
 ###### * 다음 표는 `"}]()[{"` 를 회전시킨 모습을 나타낸 것입니다.
-x	  | s를 왼쪽으로 x칸만큼 회전|	올바른 괄호 문자열?|
-|:--|:--                     |:--
-0	  | }]()[{               |	X                 |
-1	  | ]()[{}               |	X                 |
-2	  | ()[{}]               |	O                 |
-3	  | )[{}](               |	X                 |
-4	  |               |	O                 |
-5	  | {}]()[               |	X                 |
+<img src = "https://github.com/YH-LEE21/Programmers/blob/main/src/main/java/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/p2.PNG">
 
 ###### 올바른 괄호 문자열이 되는 x가 2개이므로, 2를 return 해야 합니다.
 ###### 입출력 예 #3
